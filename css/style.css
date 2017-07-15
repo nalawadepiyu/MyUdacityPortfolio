@@ -1,0 +1,37 @@
+<style type="text/css">
+.name_text{
+  font-size: 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.designation_text{
+  font-size: 20px;
+  font-family: 'Roboto Mono', monospace;
+}
+.featured_text{
+  color: #7d97ad;
+  font-size: 40px;
+}
+
+post_text{
+  color: #2d3c49
+}
+
+hr {
+    background-color: #2d3c49 !important;
+    color: #7d97ad !important;
+    border: solid 2px #7d97ad !important;
+    border-top-width: thick;
+    width: 100% !important;
+  }
+
+.img-center {
+  margin:0 auto;
+  width: 100%;
+  }
+
+.aligned{
+    padding-left: 10px;
+    padding-right: 10px;}
+
+</style>
